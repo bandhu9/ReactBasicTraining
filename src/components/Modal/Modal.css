@@ -1,0 +1,14 @@
+/* Modal.css */
+.modal {
+    background: white;
+    padding: 16px;
+    border: 1px solid #ccc;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1000;
+  }
+  
+  /* Add styles for modal backdrop, animation, etc., as needed */
+  
